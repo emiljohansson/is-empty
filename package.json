@@ -1,0 +1,21 @@
+{
+  "name": "is-empty",
+  "version": "0.0.0",
+  "description": "Validates if a string, object or array is empty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/ava/cli.js"
+  },
+  "keywords": [
+    "is",
+    "empty",
+    "array",
+    "object",
+    "string"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.15.2"
+  }
+}
